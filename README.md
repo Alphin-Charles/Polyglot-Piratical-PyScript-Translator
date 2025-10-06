@@ -1,6 +1,7 @@
 Polyglot ■■■ – Piratical PyScript Translator
 
 Abstract
+
 This project demonstrates a lightweight web-based application that translates English text
 into “Pirate Speak” using PyScript and the arrr Python library. The project integrates
 HTML, PyScript, and Python to showcase client-side execution of Python code within the
